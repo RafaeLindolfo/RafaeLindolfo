@@ -6,3 +6,5 @@
     <br>
     <h4>Entre em contato</h4>
     <a href="https://www.facebook.com/RafaeLindolfoo">Facebook</a>
+    <br>
+    <a href="https://api.whatsapp.com/send?phone=5561991121857&text=Entre%20em%20contat">Whatsapp</a>
